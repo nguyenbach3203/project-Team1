@@ -1,0 +1,11 @@
+|Fulladd
+a => x1.IN0
+a => a1.IN0
+b => x1.IN1
+b => a1.IN1
+cin => x2.IN1
+cin => a2.IN1
+sum << x2.DB_MAX_OUTPUT_PORT_TYPE
+cout << o1.DB_MAX_OUTPUT_PORT_TYPE
+
+

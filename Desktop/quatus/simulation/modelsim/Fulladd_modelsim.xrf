@@ -1,0 +1,16 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Bach/Desktop/quatus/Fulladd.v
+source_file = 1, C:/Users/Bach/Desktop/quatus/Fulladd_tb.v
+source_file = 1, C:/Users/Bach/Desktop/quatus/db/Fulladd.cbx.xml
+design_name = Fulladd
+instance = comp, \sum~output , sum~output, Fulladd, 1
+instance = comp, \cout~output , cout~output, Fulladd, 1
+instance = comp, \b~input , b~input, Fulladd, 1
+instance = comp, \a~input , a~input, Fulladd, 1
+instance = comp, \cin~input , cin~input, Fulladd, 1
+instance = comp, \x2~0 , x2~0, Fulladd, 1
+instance = comp, \o1~0 , o1~0, Fulladd, 1
+design_name = hard_block
+instance = comp, \~ALTERA_ASDO_DATA1~~ibuf , ~ALTERA_ASDO_DATA1~~ibuf, hard_block, 1
+instance = comp, \~ALTERA_FLASH_nCE_nCSO~~ibuf , ~ALTERA_FLASH_nCE_nCSO~~ibuf, hard_block, 1
+instance = comp, \~ALTERA_DATA0~~ibuf , ~ALTERA_DATA0~~ibuf, hard_block, 1

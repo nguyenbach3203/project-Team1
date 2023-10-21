@@ -1,0 +1,56 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Bach/Desktop/quatus/simulation/modelsim
+vFulladd
+Z1 !s110 1695616622
+!i10b 1
+!s100 9VzldT2SkYcXikAHMFdkb0
+IBf1O5BWiU?Mc`<<MPSEa82
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1695616183
+8C:/Users/Bach/Desktop/quatus/Fulladd.v
+FC:/Users/Bach/Desktop/quatus/Fulladd.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1695616621.000000
+!s107 C:/Users/Bach/Desktop/quatus/Fulladd.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Bach/Desktop/quatus|C:/Users/Bach/Desktop/quatus/Fulladd.v|
+!i113 1
+Z4 o-vlog01compat -work work
+Z5 !s92 -vlog01compat -work work +incdir+C:/Users/Bach/Desktop/quatus
+Z6 tCvgOpt 0
+n@fulladd
+vFulladd_tb
+R1
+!i10b 1
+!s100 1:D:7:HP3YAc7P]aO8Ajd0
+I?KPNE6IFY2faR6<fk14k^2
+R2
+R0
+w1695616376
+8C:/Users/Bach/Desktop/quatus/Fulladd_tb.v
+FC:/Users/Bach/Desktop/quatus/Fulladd_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1695616622.000000
+!s107 C:/Users/Bach/Desktop/quatus/Fulladd_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Bach/Desktop/quatus|C:/Users/Bach/Desktop/quatus/Fulladd_tb.v|
+!i113 1
+R4
+R5
+R6
+n@fulladd_tb
